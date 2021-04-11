@@ -1,0 +1,23 @@
+{
+  "name": "cors-server",
+  "version": "1.0.0",
+  "description": "Proxy server to get around CORS errors",
+  "main": "index.js",
+  "dependencies": {
+    "cors-anywhere": "^0.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hq525/CORS-Server.git"
+  },
+  "author": "hq525",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hq525/CORS-Server/issues"
+  },
+  "homepage": "https://github.com/hq525/CORS-Server#readme"
+}
